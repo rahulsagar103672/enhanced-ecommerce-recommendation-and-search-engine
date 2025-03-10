@@ -13,6 +13,8 @@ Semantic Embeddings for context-aware search and recommendations
 Multilingual Search support for diverse user queries
 Spell Correction using SymSpell
 Fuzzy Relevance Scoring & Semantic Similarity to improve product retrieval accuracy
+
+
 ✨ Features
 Hybrid Search Engine: Combines BM25, fuzzy matching, and semantic search
 Multilingual Search: Users can search in different languages
@@ -26,6 +28,8 @@ Fuzzy Matching (handling misspellings and variations)
 SymSpell (spell correction)
 Sentence Transformers (semantic embeddings)
 FastAPI / Flask (for API development)
+
+
 🏆 Future Improvements
 🔍 Improve search relevance with user behavior tracking
 📊 Implement real-time analytics for search trends
